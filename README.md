@@ -19,9 +19,9 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 ## Demo
 
-This application is deployed on Vercel Please check it out :smile: [here](https://mern-store-gold.vercel.app).
+This application is deployed on Vercel Please check it out :smile: [here](https://ar-store-gold.vercel.app).
 
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
+See admin dashboard [demo](https://arstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
 
 ## Docker Guide
 
@@ -29,7 +29,7 @@ To run this project locally you can use docker compose provided in the repositor
 
 Clone the repository
 ```
-git clone https://github.com/mohamedsamara/mern-ecommerce.git
+git clone https://github.com/mohamedsamara/ar-ecommerce.git
 ```
 
 Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_SECRET
@@ -59,7 +59,7 @@ npm run seed:db [email-***@****.com] [password-******] // This is just an exampl
 Some basic Git commands are:
 
 ```
-git clone https://github.com/mohamedsamara/mern-ecommerce.git
+git clone https://github.com/mohamedsamara/ar-ecommerce.git
 cd project
 npm install
 ```
